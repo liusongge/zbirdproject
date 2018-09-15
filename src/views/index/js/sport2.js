@@ -26,7 +26,7 @@ function startMove(obj,target,attr){
 		}
 	},30 )
 }
-console.log("sports");
+//console.log("sports");
 function getStyle(obj,attr){
 	if( window.getComputedStyle ){
 		return window.getComputedStyle( obj )[attr];

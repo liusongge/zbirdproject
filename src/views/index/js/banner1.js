@@ -71,6 +71,6 @@ window.onload=function(){
 	 function $id(id){
 	 	return document.getElementById(id);
 	 }
-	 console.log("aaaaaaaaaaaaa")
+	 //console.log("aaaaaaaaaaaaa")
 	 }
 		
